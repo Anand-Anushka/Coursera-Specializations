@@ -1,0 +1,144 @@
+<noscript>
+
+<div id="noscript">Jupyter Notebook requires JavaScript.  
+Please enable it to proceed.</div>
+
+</noscript>
+
+<div id="header">
+
+<div id="header-container" class="container">
+
+<div id="ipython_notebook" class="nav navbar-brand pull-left">[![Jupyter Notebook](/static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f)](/tree "dashboard")</div>
+
+<span id="login_widget"></span><span id="save_widget" class="pull-left save_widget"><span id="notebook_name" class="filename"></span><span class="checkpoint_status"></span><span class="autosave_status"></span></span><span id="kernel_logo_widget">![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)</span> </div>
+
+<div id="menubar-container" class="container">
+
+<div id="menubar">
+
+<div id="menus" class="navbar navbar-default" role="navigation">
+
+<div class="container-fluid"><button type="button" class="btn btn-default navbar-btn navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="navbar-text">Menu</span></button>
+
+<span class="kernel_indicator_name">Kernel</span>
+
+_<span class="fa-stack"></span>_<span id="notification_area"></span>
+
+<div class="navbar-collapse collapse">
+
+*   [File](#)
+    *   [New Notebook](#)
+    *   [Open...](#)
+
+    *   [Make a Copy...](#)
+    *   [Rename...](#)
+    *   [Save and Checkpoint](#)
+
+    *   [Revert to Checkpoint](#)
+        *   [](#)
+        *   [](#)
+        *   [](#)
+        *   [](#)
+        *   [](#)
+
+    *   [Print Preview](#)
+    *   [Download as](#)
+        *   [Notebook (.ipynb)](#)
+        *   [Script](#)
+        *   [HTML (.html)](#)
+        *   [Markdown (.md)](#)
+        *   [reST (.rst)](#)
+        *   [LaTeX (.tex)](#)
+        *   [PDF via LaTeX (.pdf)](#)
+    *   [Deploy as](#)
+
+    *   [Trust Notebook](#)
+
+    *   [Close and Halt](#)
+*   [Edit](#)
+    *   [Cut Cells](#)
+    *   [Copy Cells](#)
+    *   [Paste Cells Above](#)
+    *   [Paste Cells Below](#)
+    *   [Paste Cells & Replace](#)
+    *   [Delete Cells](#)
+    *   [Undo Delete Cells](#)
+
+    *   [Split Cell](#)
+    *   [Merge Cell Above](#)
+    *   [Merge Cell Below](#)
+
+    *   [Move Cell Up](#)
+    *   [Move Cell Down](#)
+
+    *   [Edit Notebook Metadata](#)
+
+    *   [Find and Replace](#)
+
+    *   [Cut Cell Attachments](#)
+    *   [Copy Cell Attachments](#)
+    *   [Paste Cell Attachments](#)
+
+    *   [Insert Image](#)
+*   [View](#)
+    *   [Toggle Header](#)
+    *   [Toggle Toolbar](#)
+    *   [Toggle Line Numbers](#)
+    *   [Cell Toolbar](#)
+*   [Insert](#)
+    *   [Insert Cell Above](#)
+    *   [Insert Cell Below](#)
+*   [Cell](#)
+    *   [Run Cells](#)
+    *   [Run Cells and Select Below](#)
+    *   [Run Cells and Insert Below](#)
+    *   [Run All](#)
+    *   [Run All Above](#)
+    *   [Run All Below](#)
+
+    *   [Cell Type](#)
+        *   [Code](#)
+        *   [Markdown](#)
+        *   [Raw NBConvert](#)
+
+    *   [Current Outputs](#)
+        *   [Toggle](#)
+        *   [Toggle Scrolling](#)
+        *   [Clear](#)
+    *   [All Output](#)
+        *   [Toggle](#)
+        *   [Toggle Scrolling](#)
+        *   [Clear](#)
+*   [Kernel](#)
+    *   [Interrupt](#)
+    *   [Restart](#)
+    *   [Restart & Clear Output](#)
+    *   [Restart & Run All](#)
+    *   [Reconnect](#)
+    *   [Shutdown](#)
+
+    *   [Change kernel](#)
+*   [Help](#)
+    *   [User Interface Tour](#)
+    *   [Keyboard Shortcuts](#)
+    *   [Edit Keyboard Shortcuts](#)
+
+    *   [Notebook Help](http://nbviewer.ipython.org/github/ipython/ipython/blob/3.x/examples/Notebook/Index.ipynb "Opens in a new window")
+    *   [Markdown](https://help.github.com/articles/markdown-basics/ "Opens in a new window")
+
+    *   [About](#)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<script type="text/javascript">sys_info = {"notebook_version": "5.0.0", "notebook_path": "/opt/conda/lib/python3.6/site-packages/notebook", "commit_source": "", "commit_hash": "", "sys_version": "3.6.0 |Anaconda 4.3.1 (64-bit)| (default, Dec 23 2016, 12:22:00) \n[GCC 4.4.7 20120313 (Red Hat 4.4.7-1)]", "sys_executable": "/opt/conda/bin/python", "sys_platform": "linux", "platform": "Linux-4.14.70-67.55.amzn1.x86_64-x86_64-with-debian-8.4", "os_name": "posix", "default_encoding": "UTF-8"};</script> <script type="text/javascript">function _remove_token_from_url() { if (window.location.search.length <= 1) { return; } var search_parameters = window.location.search.slice(1).split('&'); for (var i = 0; i < search_parameters.length; i++) { if (search_parameters[i].split('=')[0] === 'token') { // remote token from search parameters search_parameters.splice(i, 1); var new_search = ''; if (search_parameters.length) { new_search = '?' + search_parameters.join('&'); } var new_url = window.location.origin + window.location.pathname + new_search + window.location.hash; window.history.replaceState({}, "", new_url); return; } } } _remove_token_from_url();</script>
